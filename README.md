@@ -1,3 +1,4 @@
+### Copyrights © Thinkster.io
 ---
 1. Write a function that returns the sum of two numbers.
 2. Write a function that returns the sum of all numbers regardless of # of params.
